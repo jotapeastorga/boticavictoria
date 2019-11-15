@@ -1,0 +1,19 @@
+{
+  "name": "boticavictoria",
+  "version": "1.0.0",
+  "description": "CRUD Medicamentos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jotapeastorga/boticavictoria.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jotapeastorga/boticavictoria/issues"
+  },
+  "homepage": "https://github.com/jotapeastorga/boticavictoria#readme"
+}
