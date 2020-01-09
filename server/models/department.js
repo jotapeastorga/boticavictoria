@@ -6,4 +6,4 @@ var departmentSchema = new Schema({
     numero :{type: Number}
 });
 
-module.exports = mongoose.model('departamentos',departmentSchema);
+module.exports = mongoose.model('departments',departmentSchema);

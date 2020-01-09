@@ -3,7 +3,6 @@ require('./config/config');
 const express = require('express');
 const mongoose = require('mongoose');
 const app = express();
-const Department = require('./models/department');
 
 app.use( require('./routes/index'));
 
